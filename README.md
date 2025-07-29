@@ -1,12 +1,8 @@
-======================
-Game Collection Unit
-=======================
+**Game Collection Unit**
 
-==========================================
-1. Starting the Program/Using the Program
+**1. Starting the Program/Using the Program
 2. Description
-3. Terms and Conditions
-==========================================
+3. Terms and Conditions**
 
 
 
