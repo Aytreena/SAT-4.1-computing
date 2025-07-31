@@ -4,7 +4,7 @@
 
 **2. Description**
 
-**3.Timeline Of Project**
+**3.Timeline of the Project**
 
 
 
@@ -33,14 +33,27 @@ The purpose of this program being created wasa for Gamers, Game Collectors or Ga
 
 
 ========================================
-3.Timeline Of Project
+3.Timeline of the Project
 ========================================
 
 08/07/2025: The Email and Register system wasn't reading each other, making me unable to test if it went to the blank main page while using Tkinter. 
+
 11/07/2025: Getting rid of the Email and Register system, to work on the main pages dimensions. 
+
 12/07/2025: Placing the buttons into the right position within the main menu.
+
 15/07/2025: Changing the GUI's interface to CustomTkinter setup, changing all the buttons to custom tkinter but kept the textboxes from tkinter as I liked them more.
+
 19/07/2025: Worked on the Classes and Functions and getting a basic setup of it, to test out buttons and see if everything works.
+
 20/07/2025: Kept on working on the Classes and Functions with refining it.
+
 22/07/2025:Finsihed refining the Classes and Functions to keep the Code as small as possible.
-24/07/2025: Worked on Github README file with the 
+
+24/07/2025: Worked on Github README file with the Look of it and writing my Instructions down on how to use the Program. my computer's internet stopped working for the next 5 days with an unknown reason why.
+
+26/07/2025: Worked on adding the Email and Register part of the Program on my other computer as the school one I use stopped having interent.
+
+29/07/2025: spent almost the entire computing class with Mr. Smith fixing my PyCharm files to make my code work. went home to work on Email register but ended up switching it to a Username and Password system instead.
+
+31/07/2025: tested all of the functions in the Program to make sure it all works and it does. Finishing the README file by adding the Description and the Timeline of the Project part of it. Ready to submit it all for today as it's the submission date.
