@@ -12,7 +12,7 @@
 1.Starting the Program/Using the Program
 ========================================
 
-1. download the compressed zip folder named "PythonProject4.zip" and double click the "SAT 4.1 Criterion 6.py" file and select the coding softwre you have downlaoded (preferably PyCharm Jet Brains any verion newer than 2024.3.6 Windows version)
+1. download the compressed zip folder named "PythonProject4.zip", unzip it and open the folder, double click the "SAT 4.1 Criterion 6.py" file and select the coding softwre you have downlaoded (preferably PyCharm Jet Brains any verion newer than 2024.3.6 Windows version)
 2. Click on the triangle next to the bug on the top of the screen and select SAT 4.1 Criterion 6.py as the selected program by pressing the dropdown menu to select it or select "Currnet File" then press the Dark Green Triangle, to run the code.
 3. When the program opens the User will see a log in page where they'll need to register themself into the system by pressing the "Register" button, after registering their Username and Password the User, can then login to the program to use it.
 5. a menu with five buttons will show up ("View Games", "Input Game Details", "Delete Entry", "Logout" and "Exit App") press on "Input Game Details" to start inserting their game titles into the system,
