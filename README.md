@@ -16,8 +16,7 @@
 5. a menu with five buttons will show up ("View Games", "Input Game Details", "Delete Entry", "Logout" and "Exit App") press on "Input Game Details" to start inserting their game titles into the system,
 the User is able to have special characters in the game title if the game has any in them. The program also stores what Platform and the Format of the game which is being stored upon. an example would be
 Sonic the Hedgehog - PC - Digital. a pop up will come up saying "Game added!" that tells the user it has succesfully been stored. When the game name text box is left empty and the "Save" button is pressed a pop up saying "Game name required." to show it's been left blank.
-6. When the User is done they can press the "Back" button to return to the main menu wher they can "View Games" or "Delete Entry" when they delete an entry they just need to insert the game name and the platfrom
-it was stored on, once it has been entered and selected a pop up will say "Game deleted succesfully." when the game name isn't corect a pop up will come up with "Game not found."
+6. When the User is done they can press the "Back" button to return to the main menu wher they can "View Games" or "Delete Entry" when they delete an entry they just need to insert the game name and the platfrom it was stored on(Users are able to copy and past from the list secion inside of "View Games" for an easier time isntead of typing it manually), once it has been entered and selected a pop up will say "Game deleted succesfully." when the game name isn't corect a pop up will come up with "Game not found.".
 7. when the "View Games" button is pressed, it will show a menu that has a list to show all the Game title's the User has inputed using the "Input Game Details". There are working filters that are by Platforms to make it easier for the user to see what Gaming platform has the game they are either looking for or already have owned.
 8. By pressing the "Back" button the User is taken back to the main menu where they can press "Logout" to logout of the account currently being used, the User will then be taken back to the log in page at the start of the program. If the User is still in the main page of the program they can also press the "Exit App" button to close the program.
 
@@ -26,8 +25,5 @@ it was stored on, once it has been entered and selected a pop up will say "Game 
 ========================================
 2.Description
 ========================================
+The purpose of this program being created wasa for Gamers, Game Collectors or Game Shops to keep track of what games they own in their collection, or selling on the shelves, it has an easy interface to understand how to use 
 
-
-
-==================
-2. Description
