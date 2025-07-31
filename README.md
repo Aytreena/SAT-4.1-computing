@@ -4,6 +4,8 @@
 
 **2. Description**
 
+**3.Timeline Of Project**
+
 
 
 ========================================
@@ -25,5 +27,20 @@ Sonic the Hedgehog - PC - Digital. a pop up will come up saying "Game added!" th
 ========================================
 2.Description
 ========================================
-The purpose of this program being created wasa for Gamers, Game Collectors or Game Shops to keep track of what games they own in their collection, or selling on the shelves, it has an easy interface to understand how to use 
+The purpose of this program being created wasa for Gamers, Game Collectors or Game Shops to keep track of what games they own in their collection, or selling on the shelves, it has an easy interface to understand how to use each feature within the program. It is also quick to use and instantly adds the entries to the CSV holding the information that also gets instantly updated upong the Users device.
 
+
+
+
+========================================
+3.Timeline Of Project
+========================================
+
+08/07/2025: The Email and Register system wasn't reading each other, making me unable to test if it went to the blank main page while using Tkinter. 
+11/07/2025: Getting rid of the Email and Register system, to work on the main pages dimensions. 
+12/07/2025: Placing the buttons into the right position within the main menu.
+15/07/2025: Changing the GUI's interface to CustomTkinter setup, changing all the buttons to custom tkinter but kept the textboxes from tkinter as I liked them more.
+19/07/2025: Worked on the Classes and Functions and getting a basic setup of it, to test out buttons and see if everything works.
+20/07/2025: Kept on working on the Classes and Functions with refining it.
+22/07/2025:Finsihed refining the Classes and Functions to keep the Code as small as possible.
+24/07/2025: Worked on Github README file with the 
