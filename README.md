@@ -12,8 +12,8 @@
 1.Starting the Program/Using the Program
 ========================================
 
-1. download the compressed zip folder named "PythonProject4.zip", unzip it and open the folder, double click the "SAT 4.1 Criterion 6.py" file and select the coding software you have downloaded (preferably PyCharm Jet Brains any version newer than 2024.3.6 Windows version)
-2. Click on the triangle next to the bug on the top of the screen and select SAT 4.1 Criterion 6.py as the selected program by pressing the dropdown menu to select it or select "Current File" then press the Dark Green triangle, to run the code.
+1. download the .exe file (Gamecollectionunit.exe) or the .py file (SAT 4.1 Criterion 6.py), double click either file, if User selects the .py file, choose the coding software you have downloaded for (preferably PyCharm Jet Brains any version newer than 2024.3.6 Windows version)
+2.(for the .py code users only) Click on the triangle next to the bug on the top of the screen and select SAT 4.1 Criterion 6.py as the selected program by pressing the dropdown menu to select it or select "Current File" then press the Dark Green triangle, to run the code.
 3. When the program opens the User will see a log in page where they'll need to register themself into the system by pressing the "Register" button, after registering their Username and Password the User, can then login to the program to use it.
 5. a menu with five buttons will show up ("View Games", "Input Game Details", "Delete Entry", "Logout" and "Exit App") press on "Input Game Details" to start inserting their game titles into the system,
 the User is able to have special characters in the game title if the game has any in them. The program also stores what Platform and the Format of the game which is being stored upon. an example would be: Sonic the Hedgehog - PC - Digital. a pop up will come up saying "Game added!" that tells the user it has successfully been stored. When the game name text box is left empty and the "Save" button is pressed a pop up saying "Game name required." to show it's been left blank.
@@ -26,7 +26,7 @@ the User is able to have special characters in the game title if the game has an
 ========================================
 2.Description
 ========================================
-The purpose of this program being created wasa for Gamers, Game Collectors or Game Shops to keep track of what games they own in their collection, or selling on the shelves, it has an easy interface to understand how to use each feature within the program. It is also quick to use and instantly adds the entries to the CSV holding the information that also gets instantly updated upong the Users device.
+The purpose of this program being created wasa for Gamers, Game Collectors or Game Shops to keep track of what games they own in their collection, or selling on the shelves, it has an easy interface to understand how to use each feature within the program. It is also quick to use and instantly adds the entries to the CSV holding the information that also gets instantly updated upon the Users device.
 
 
 
@@ -56,3 +56,5 @@ The purpose of this program being created wasa for Gamers, Game Collectors or Ga
 29/07/2025: spent almost the entire computing class with Mr. Smith fixing my PyCharm files to make my code work. went home to work on Email register but ended up switching it to a Username and Password system instead.
 
 31/07/2025: tested all of the functions in the Program to make sure it all works and it does. Finishing the README file by adding the Description and the Timeline of the Project part of it. Ready to submit it all for today as it's the submission date.
+
+19/08/2025 created the executable file for the program.
